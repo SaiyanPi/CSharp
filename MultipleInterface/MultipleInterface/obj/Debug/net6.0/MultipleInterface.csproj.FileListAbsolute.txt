@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\MultipleInterface\MultipleInterface\obj\Debug\net6.0\MultipleInterface.csproj.AssemblyReference.cache
+C:\Users\zlams\source\repos\MultipleInterface\MultipleInterface\obj\Debug\net6.0\MultipleInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\MultipleInterface\MultipleInterface\obj\Debug\net6.0\MultipleInterface.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\MultipleInterface\MultipleInterface\obj\Debug\net6.0\MultipleInterface.AssemblyInfo.cs
+C:\Users\zlams\source\repos\MultipleInterface\MultipleInterface\obj\Debug\net6.0\MultipleInterface.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\MultipleInterface\MultipleInterface\bin\Debug\net6.0\MultipleInterface.exe
+C:\Users\zlams\source\repos\MultipleInterface\MultipleInterface\bin\Debug\net6.0\MultipleInterface.deps.json
+C:\Users\zlams\source\repos\MultipleInterface\MultipleInterface\bin\Debug\net6.0\MultipleInterface.runtimeconfig.json
+C:\Users\zlams\source\repos\MultipleInterface\MultipleInterface\bin\Debug\net6.0\MultipleInterface.dll
+C:\Users\zlams\source\repos\MultipleInterface\MultipleInterface\bin\Debug\net6.0\MultipleInterface.pdb
+C:\Users\zlams\source\repos\MultipleInterface\MultipleInterface\obj\Debug\net6.0\MultipleInterface.dll
+C:\Users\zlams\source\repos\MultipleInterface\MultipleInterface\obj\Debug\net6.0\refint\MultipleInterface.dll
+C:\Users\zlams\source\repos\MultipleInterface\MultipleInterface\obj\Debug\net6.0\MultipleInterface.pdb
+C:\Users\zlams\source\repos\MultipleInterface\MultipleInterface\obj\Debug\net6.0\MultipleInterface.genruntimeconfig.cache
+C:\Users\zlams\source\repos\MultipleInterface\MultipleInterface\obj\Debug\net6.0\ref\MultipleInterface.dll

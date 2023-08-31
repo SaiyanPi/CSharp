@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\MultipleClass\MultipleClass\bin\Debug\net6.0\MultipleClass.exe
+C:\Users\zlams\source\repos\MultipleClass\MultipleClass\bin\Debug\net6.0\MultipleClass.deps.json
+C:\Users\zlams\source\repos\MultipleClass\MultipleClass\bin\Debug\net6.0\MultipleClass.runtimeconfig.json
+C:\Users\zlams\source\repos\MultipleClass\MultipleClass\bin\Debug\net6.0\MultipleClass.dll
+C:\Users\zlams\source\repos\MultipleClass\MultipleClass\bin\Debug\net6.0\MultipleClass.pdb
+C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\MultipleClass.csproj.AssemblyReference.cache
+C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\MultipleClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\MultipleClass.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\MultipleClass.AssemblyInfo.cs
+C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\MultipleClass.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\MultipleClass.dll
+C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\refint\MultipleClass.dll
+C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\MultipleClass.pdb
+C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\MultipleClass.genruntimeconfig.cache
+C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\ref\MultipleClass.dll

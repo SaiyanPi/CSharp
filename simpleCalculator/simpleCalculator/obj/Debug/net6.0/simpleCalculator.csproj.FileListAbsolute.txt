@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.csproj.AssemblyReference.cache
+C:\Users\zlams\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.AssemblyInfo.cs
+C:\Users\zlams\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\simpleCalculator\simpleCalculator\bin\Debug\net6.0\simpleCalculator.exe
+C:\Users\zlams\source\repos\simpleCalculator\simpleCalculator\bin\Debug\net6.0\simpleCalculator.deps.json
+C:\Users\zlams\source\repos\simpleCalculator\simpleCalculator\bin\Debug\net6.0\simpleCalculator.runtimeconfig.json
+C:\Users\zlams\source\repos\simpleCalculator\simpleCalculator\bin\Debug\net6.0\simpleCalculator.dll
+C:\Users\zlams\source\repos\simpleCalculator\simpleCalculator\bin\Debug\net6.0\simpleCalculator.pdb
+C:\Users\zlams\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.dll
+C:\Users\zlams\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0\refint\simpleCalculator.dll
+C:\Users\zlams\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.pdb
+C:\Users\zlams\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.genruntimeconfig.cache
+C:\Users\zlams\source\repos\simpleCalculator\simpleCalculator\obj\Debug\net6.0\ref\simpleCalculator.dll

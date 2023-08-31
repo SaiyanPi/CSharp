@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\ClassMembers\ClassMembers\bin\Debug\net6.0\ClassMembers.exe
+C:\Users\zlams\source\repos\ClassMembers\ClassMembers\bin\Debug\net6.0\ClassMembers.deps.json
+C:\Users\zlams\source\repos\ClassMembers\ClassMembers\bin\Debug\net6.0\ClassMembers.runtimeconfig.json
+C:\Users\zlams\source\repos\ClassMembers\ClassMembers\bin\Debug\net6.0\ClassMembers.dll
+C:\Users\zlams\source\repos\ClassMembers\ClassMembers\bin\Debug\net6.0\ClassMembers.pdb
+C:\Users\zlams\source\repos\ClassMembers\ClassMembers\obj\Debug\net6.0\ClassMembers.csproj.AssemblyReference.cache
+C:\Users\zlams\source\repos\ClassMembers\ClassMembers\obj\Debug\net6.0\ClassMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\ClassMembers\ClassMembers\obj\Debug\net6.0\ClassMembers.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\ClassMembers\ClassMembers\obj\Debug\net6.0\ClassMembers.AssemblyInfo.cs
+C:\Users\zlams\source\repos\ClassMembers\ClassMembers\obj\Debug\net6.0\ClassMembers.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\ClassMembers\ClassMembers\obj\Debug\net6.0\ClassMembers.dll
+C:\Users\zlams\source\repos\ClassMembers\ClassMembers\obj\Debug\net6.0\refint\ClassMembers.dll
+C:\Users\zlams\source\repos\ClassMembers\ClassMembers\obj\Debug\net6.0\ClassMembers.pdb
+C:\Users\zlams\source\repos\ClassMembers\ClassMembers\obj\Debug\net6.0\ClassMembers.genruntimeconfig.cache
+C:\Users\zlams\source\repos\ClassMembers\ClassMembers\obj\Debug\net6.0\ref\ClassMembers.dll

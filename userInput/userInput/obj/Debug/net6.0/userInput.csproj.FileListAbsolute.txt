@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\userInput\userInput\bin\Debug\net6.0\userInput.exe
+C:\Users\zlams\source\repos\userInput\userInput\bin\Debug\net6.0\userInput.deps.json
+C:\Users\zlams\source\repos\userInput\userInput\bin\Debug\net6.0\userInput.runtimeconfig.json
+C:\Users\zlams\source\repos\userInput\userInput\bin\Debug\net6.0\userInput.dll
+C:\Users\zlams\source\repos\userInput\userInput\bin\Debug\net6.0\userInput.pdb
+C:\Users\zlams\source\repos\userInput\userInput\obj\Debug\net6.0\userInput.csproj.AssemblyReference.cache
+C:\Users\zlams\source\repos\userInput\userInput\obj\Debug\net6.0\userInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\userInput\userInput\obj\Debug\net6.0\userInput.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\userInput\userInput\obj\Debug\net6.0\userInput.AssemblyInfo.cs
+C:\Users\zlams\source\repos\userInput\userInput\obj\Debug\net6.0\userInput.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\userInput\userInput\obj\Debug\net6.0\userInput.dll
+C:\Users\zlams\source\repos\userInput\userInput\obj\Debug\net6.0\refint\userInput.dll
+C:\Users\zlams\source\repos\userInput\userInput\obj\Debug\net6.0\userInput.pdb
+C:\Users\zlams\source\repos\userInput\userInput\obj\Debug\net6.0\userInput.genruntimeconfig.cache
+C:\Users\zlams\source\repos\userInput\userInput\obj\Debug\net6.0\ref\userInput.dll

@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\AutomaticProperty\AutomaticProperty\bin\Debug\net6.0\AutomaticProperty.exe
+C:\Users\zlams\source\repos\AutomaticProperty\AutomaticProperty\bin\Debug\net6.0\AutomaticProperty.deps.json
+C:\Users\zlams\source\repos\AutomaticProperty\AutomaticProperty\bin\Debug\net6.0\AutomaticProperty.runtimeconfig.json
+C:\Users\zlams\source\repos\AutomaticProperty\AutomaticProperty\bin\Debug\net6.0\AutomaticProperty.dll
+C:\Users\zlams\source\repos\AutomaticProperty\AutomaticProperty\bin\Debug\net6.0\AutomaticProperty.pdb
+C:\Users\zlams\source\repos\AutomaticProperty\AutomaticProperty\obj\Debug\net6.0\AutomaticProperty.csproj.AssemblyReference.cache
+C:\Users\zlams\source\repos\AutomaticProperty\AutomaticProperty\obj\Debug\net6.0\AutomaticProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\AutomaticProperty\AutomaticProperty\obj\Debug\net6.0\AutomaticProperty.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\AutomaticProperty\AutomaticProperty\obj\Debug\net6.0\AutomaticProperty.AssemblyInfo.cs
+C:\Users\zlams\source\repos\AutomaticProperty\AutomaticProperty\obj\Debug\net6.0\AutomaticProperty.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\AutomaticProperty\AutomaticProperty\obj\Debug\net6.0\AutomaticProperty.dll
+C:\Users\zlams\source\repos\AutomaticProperty\AutomaticProperty\obj\Debug\net6.0\refint\AutomaticProperty.dll
+C:\Users\zlams\source\repos\AutomaticProperty\AutomaticProperty\obj\Debug\net6.0\AutomaticProperty.pdb
+C:\Users\zlams\source\repos\AutomaticProperty\AutomaticProperty\obj\Debug\net6.0\AutomaticProperty.genruntimeconfig.cache
+C:\Users\zlams\source\repos\AutomaticProperty\AutomaticProperty\obj\Debug\net6.0\ref\AutomaticProperty.dll

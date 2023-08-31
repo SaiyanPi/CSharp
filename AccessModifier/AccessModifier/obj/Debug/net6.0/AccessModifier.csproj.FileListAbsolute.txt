@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\AccessModifier\AccessModifier\bin\Debug\net6.0\AccessModifier.exe
+C:\Users\zlams\source\repos\AccessModifier\AccessModifier\bin\Debug\net6.0\AccessModifier.deps.json
+C:\Users\zlams\source\repos\AccessModifier\AccessModifier\bin\Debug\net6.0\AccessModifier.runtimeconfig.json
+C:\Users\zlams\source\repos\AccessModifier\AccessModifier\bin\Debug\net6.0\AccessModifier.dll
+C:\Users\zlams\source\repos\AccessModifier\AccessModifier\bin\Debug\net6.0\AccessModifier.pdb
+C:\Users\zlams\source\repos\AccessModifier\AccessModifier\obj\Debug\net6.0\AccessModifier.csproj.AssemblyReference.cache
+C:\Users\zlams\source\repos\AccessModifier\AccessModifier\obj\Debug\net6.0\AccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\AccessModifier\AccessModifier\obj\Debug\net6.0\AccessModifier.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\AccessModifier\AccessModifier\obj\Debug\net6.0\AccessModifier.AssemblyInfo.cs
+C:\Users\zlams\source\repos\AccessModifier\AccessModifier\obj\Debug\net6.0\AccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\AccessModifier\AccessModifier\obj\Debug\net6.0\AccessModifier.dll
+C:\Users\zlams\source\repos\AccessModifier\AccessModifier\obj\Debug\net6.0\refint\AccessModifier.dll
+C:\Users\zlams\source\repos\AccessModifier\AccessModifier\obj\Debug\net6.0\AccessModifier.pdb
+C:\Users\zlams\source\repos\AccessModifier\AccessModifier\obj\Debug\net6.0\AccessModifier.genruntimeconfig.cache
+C:\Users\zlams\source\repos\AccessModifier\AccessModifier\obj\Debug\net6.0\ref\AccessModifier.dll

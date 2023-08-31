@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\strings\strings\bin\Debug\net6.0\strings.exe
+C:\Users\zlams\source\repos\strings\strings\bin\Debug\net6.0\strings.deps.json
+C:\Users\zlams\source\repos\strings\strings\bin\Debug\net6.0\strings.runtimeconfig.json
+C:\Users\zlams\source\repos\strings\strings\bin\Debug\net6.0\strings.dll
+C:\Users\zlams\source\repos\strings\strings\bin\Debug\net6.0\strings.pdb
+C:\Users\zlams\source\repos\strings\strings\obj\Debug\net6.0\strings.csproj.AssemblyReference.cache
+C:\Users\zlams\source\repos\strings\strings\obj\Debug\net6.0\strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\strings\strings\obj\Debug\net6.0\strings.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\strings\strings\obj\Debug\net6.0\strings.AssemblyInfo.cs
+C:\Users\zlams\source\repos\strings\strings\obj\Debug\net6.0\strings.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\strings\strings\obj\Debug\net6.0\strings.dll
+C:\Users\zlams\source\repos\strings\strings\obj\Debug\net6.0\refint\strings.dll
+C:\Users\zlams\source\repos\strings\strings\obj\Debug\net6.0\strings.pdb
+C:\Users\zlams\source\repos\strings\strings\obj\Debug\net6.0\strings.genruntimeconfig.cache
+C:\Users\zlams\source\repos\strings\strings\obj\Debug\net6.0\ref\strings.dll

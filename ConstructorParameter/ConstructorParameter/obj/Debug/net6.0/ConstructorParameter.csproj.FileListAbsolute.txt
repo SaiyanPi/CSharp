@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\ConstructorParameter\ConstructorParameter\bin\Debug\net6.0\ConstructorParameter.exe
+C:\Users\zlams\source\repos\ConstructorParameter\ConstructorParameter\bin\Debug\net6.0\ConstructorParameter.deps.json
+C:\Users\zlams\source\repos\ConstructorParameter\ConstructorParameter\bin\Debug\net6.0\ConstructorParameter.runtimeconfig.json
+C:\Users\zlams\source\repos\ConstructorParameter\ConstructorParameter\bin\Debug\net6.0\ConstructorParameter.dll
+C:\Users\zlams\source\repos\ConstructorParameter\ConstructorParameter\bin\Debug\net6.0\ConstructorParameter.pdb
+C:\Users\zlams\source\repos\ConstructorParameter\ConstructorParameter\obj\Debug\net6.0\ConstructorParameter.csproj.AssemblyReference.cache
+C:\Users\zlams\source\repos\ConstructorParameter\ConstructorParameter\obj\Debug\net6.0\ConstructorParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\ConstructorParameter\ConstructorParameter\obj\Debug\net6.0\ConstructorParameter.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\ConstructorParameter\ConstructorParameter\obj\Debug\net6.0\ConstructorParameter.AssemblyInfo.cs
+C:\Users\zlams\source\repos\ConstructorParameter\ConstructorParameter\obj\Debug\net6.0\ConstructorParameter.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\ConstructorParameter\ConstructorParameter\obj\Debug\net6.0\ConstructorParameter.dll
+C:\Users\zlams\source\repos\ConstructorParameter\ConstructorParameter\obj\Debug\net6.0\refint\ConstructorParameter.dll
+C:\Users\zlams\source\repos\ConstructorParameter\ConstructorParameter\obj\Debug\net6.0\ConstructorParameter.pdb
+C:\Users\zlams\source\repos\ConstructorParameter\ConstructorParameter\obj\Debug\net6.0\ConstructorParameter.genruntimeconfig.cache
+C:\Users\zlams\source\repos\ConstructorParameter\ConstructorParameter\obj\Debug\net6.0\ref\ConstructorParameter.dll

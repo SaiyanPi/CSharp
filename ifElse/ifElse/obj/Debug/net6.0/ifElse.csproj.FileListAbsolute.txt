@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\ifElse\ifElse\bin\Debug\net6.0\ifElse.exe
+C:\Users\zlams\source\repos\ifElse\ifElse\bin\Debug\net6.0\ifElse.deps.json
+C:\Users\zlams\source\repos\ifElse\ifElse\bin\Debug\net6.0\ifElse.runtimeconfig.json
+C:\Users\zlams\source\repos\ifElse\ifElse\bin\Debug\net6.0\ifElse.dll
+C:\Users\zlams\source\repos\ifElse\ifElse\bin\Debug\net6.0\ifElse.pdb
+C:\Users\zlams\source\repos\ifElse\ifElse\obj\Debug\net6.0\ifElse.csproj.AssemblyReference.cache
+C:\Users\zlams\source\repos\ifElse\ifElse\obj\Debug\net6.0\ifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\ifElse\ifElse\obj\Debug\net6.0\ifElse.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\ifElse\ifElse\obj\Debug\net6.0\ifElse.AssemblyInfo.cs
+C:\Users\zlams\source\repos\ifElse\ifElse\obj\Debug\net6.0\ifElse.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\ifElse\ifElse\obj\Debug\net6.0\ifElse.dll
+C:\Users\zlams\source\repos\ifElse\ifElse\obj\Debug\net6.0\refint\ifElse.dll
+C:\Users\zlams\source\repos\ifElse\ifElse\obj\Debug\net6.0\ifElse.pdb
+C:\Users\zlams\source\repos\ifElse\ifElse\obj\Debug\net6.0\ifElse.genruntimeconfig.cache
+C:\Users\zlams\source\repos\ifElse\ifElse\obj\Debug\net6.0\ref\ifElse.dll
