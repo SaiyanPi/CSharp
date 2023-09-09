@@ -55,6 +55,7 @@ namespace calculator
                     break;
 
             }
+            /*this is the test change for git connit */
 
             /* Console.WriteLine("Enter a first number");
              double number1 = Convert.ToDouble(Console.ReadLine());
