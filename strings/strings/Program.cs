@@ -67,6 +67,14 @@ namespace Arrays
             Console.WriteLine("\n");
 
 
+            string[] bottles = new string[] { "water bottle", "juice bottle", "drinks bottle", "oil bottle", "spice bottle" };
+            Array.Sort(bottles);
+            foreach(string i in bottles)
+            {
+                Console.WriteLine(i);
+            }
+
+
             /*Multidimensional array*/
             Console.WriteLine("Multidimensional array");
             int[,] twodim = { { 1, 4, 6, 8 }, { 2, 5, 7, 9 } };   //2 dimensional array
