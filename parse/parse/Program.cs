@@ -7,13 +7,15 @@ namespace castConvertParse
         {
             //casting
             Console.WriteLine("1. Casting method :");
-            //1. explicit casting
-            double myDouble = 5.67;
-            int myInt = (int)myDouble;             //cannot implictly convert double to int so we use explicit casting
+            //1. explicit casting(manually| converting larger type to smaller type size: double->float->long->int->char)
+            double myDouble = 5.671234567890123;
+            int myInt = (int)myDouble;         //cannot implictly convert double to int so we use explicit casting
+            float myFloat = (float)myDouble;
             Console.WriteLine(myDouble);
             Console.WriteLine($"explicit parse of '{myDouble}' to an integer is {myInt}");
+            Console.WriteLine($"explicit parse of {myDouble} to an float is {myFloat}");
 
-            //2. implicit casting
+            //2. implicit casting(automatically| converting smaller type to larger type size: char->int->long->float->double)
             int myInt2 = 5;
             double myDouble2 = myInt2;
             Console.WriteLine(myInt2);

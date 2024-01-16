@@ -3,7 +3,6 @@ C:\Users\zlams\source\repos\parse\parse\bin\Debug\net6.0\parse.deps.json
 C:\Users\zlams\source\repos\parse\parse\bin\Debug\net6.0\parse.runtimeconfig.json
 C:\Users\zlams\source\repos\parse\parse\bin\Debug\net6.0\parse.dll
 C:\Users\zlams\source\repos\parse\parse\bin\Debug\net6.0\parse.pdb
-C:\Users\zlams\source\repos\parse\parse\obj\Debug\net6.0\parse.csproj.AssemblyReference.cache
 C:\Users\zlams\source\repos\parse\parse\obj\Debug\net6.0\parse.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\zlams\source\repos\parse\parse\obj\Debug\net6.0\parse.AssemblyInfoInputs.cache
 C:\Users\zlams\source\repos\parse\parse\obj\Debug\net6.0\parse.AssemblyInfo.cs
