@@ -3,7 +3,6 @@ C:\Users\zlams\source\repos\exercise\exercise\bin\Debug\net6.0\exercise.deps.jso
 C:\Users\zlams\source\repos\exercise\exercise\bin\Debug\net6.0\exercise.runtimeconfig.json
 C:\Users\zlams\source\repos\exercise\exercise\bin\Debug\net6.0\exercise.dll
 C:\Users\zlams\source\repos\exercise\exercise\bin\Debug\net6.0\exercise.pdb
-C:\Users\zlams\source\repos\exercise\exercise\obj\Debug\net6.0\exercise.csproj.AssemblyReference.cache
 C:\Users\zlams\source\repos\exercise\exercise\obj\Debug\net6.0\exercise.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\zlams\source\repos\exercise\exercise\obj\Debug\net6.0\exercise.AssemblyInfoInputs.cache
 C:\Users\zlams\source\repos\exercise\exercise\obj\Debug\net6.0\exercise.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\zlams\source\repos\exercise\exercise\obj\Debug\net6.0\refint\exercise.d
 C:\Users\zlams\source\repos\exercise\exercise\obj\Debug\net6.0\exercise.pdb
 C:\Users\zlams\source\repos\exercise\exercise\obj\Debug\net6.0\exercise.genruntimeconfig.cache
 C:\Users\zlams\source\repos\exercise\exercise\obj\Debug\net6.0\ref\exercise.dll
+C:\Users\zlams\source\repos\exercise\exercise\obj\Debug\net6.0\exercise.sourcelink.json
