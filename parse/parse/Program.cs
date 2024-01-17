@@ -15,11 +15,19 @@ namespace castConvertParse
             Console.WriteLine($"explicit parse of '{myDouble}' to an integer is {myInt}");
             Console.WriteLine($"explicit parse of {myDouble} to an float is {myFloat}");
 
+            int x = 7;
+            char y = (char)x;
+            Console.WriteLine($"explicit parse of {x} is {y}");
+
             //2. implicit casting(automatically| converting smaller type to larger type size: char->int->long->float->double)
             int myInt2 = 5;
             double myDouble2 = myInt2;
             Console.WriteLine(myInt2);
             Console.WriteLine($"implicit parse of '{myDouble2}' to a double is {myDouble2}");
+
+            char myChar = 'A';
+            int myInt3 = myChar;
+            Console.WriteLine($"implicit parse of {myChar} to an int is {myInt3}");
 
             /*3. casting error
             double myDouble3 = 5.67;
@@ -71,11 +79,11 @@ namespace castConvertParse
             Console.WriteLine(parsedString);
 
             //Tryparse
-            string myString4 = "abcde";
+            string myString4 = "cfwhd";
             int myString4Int;
             int.TryParse(myString4, out myString4Int);  //to overcome the crash we use Tryparse. This returns True or False value based on the
                                                         //success of conversion instead of crashing
-            Console.WriteLine(myString4Int);
+            Console.WriteLine(myString4Int);            //returns 0
         }
     }
 }

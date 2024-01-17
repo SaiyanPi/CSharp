@@ -12,3 +12,4 @@ C:\Users\zlams\source\repos\parse\parse\obj\Debug\net6.0\refint\parse.dll
 C:\Users\zlams\source\repos\parse\parse\obj\Debug\net6.0\parse.pdb
 C:\Users\zlams\source\repos\parse\parse\obj\Debug\net6.0\parse.genruntimeconfig.cache
 C:\Users\zlams\source\repos\parse\parse\obj\Debug\net6.0\ref\parse.dll
+C:\Users\zlams\source\repos\parse\parse\obj\Debug\net6.0\parse.sourcelink.json
