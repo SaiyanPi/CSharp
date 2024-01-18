@@ -7,6 +7,7 @@ namespace userInput
     {
         static void Main(string[] args)
         {
+            //username
             Console.WriteLine("Enter your username: ");
             do
             {
@@ -23,7 +24,9 @@ namespace userInput
             }
             while (true);
 
-
+          
+           
+            //age
             Console.WriteLine("Enter your age: ");
             do
             {
@@ -43,7 +46,7 @@ namespace userInput
             }
             while (true);
 
-
+            //address
             Console.WriteLine("Enter your address: ");
             do
             {
@@ -57,6 +60,27 @@ namespace userInput
                     Console.WriteLine($"Your address is {address}");
                     break;
                 }
+            }
+            while (true);
+
+            //phone number
+            Console.WriteLine("Enter your phone no.");
+            do
+            {
+                string phone = Console.ReadLine();
+                int parsedPhone;
+                int.TryParse(phone, out parsedPhone);
+                int phoneLength = phone.Length;
+                if (parsedPhone != 0 && phoneLength == 10)
+                {
+                    Console.WriteLine($"your phone number is {parsedPhone}");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("please enter a valid phone number again");
+                }
+
             }
             while (true);
         }
