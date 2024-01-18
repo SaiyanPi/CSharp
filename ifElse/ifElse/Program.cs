@@ -7,7 +7,7 @@ namespace ifElse
         {
             Console.WriteLine("If else condition \n");
 
-
+            
              //asks for a valid voting age
             int votingAge;
             Console.WriteLine("What's the voting age?:");
@@ -43,7 +43,34 @@ namespace ifElse
                     Console.WriteLine("Please enter your valid age again: ");
                 }
             }
-            while (true);
+            while (true); 
+            
+
+            //alternatively
+
+            //getting the voting age
+            Console.WriteLine("what is the voting age?");
+            string x = Console.ReadLine();
+            int parsedx;
+            int.TryParse(x, out parsedx);
+            Console.WriteLine($"Voting age is {parsedx}");
+
+            //getting the person's age
+            Console.WriteLine("Enter your age");
+            string y = Console.ReadLine();
+            int parsedy;
+            int.TryParse(y, out parsedy);
+            Console.WriteLine($"your age is {parsedy}");
+
+            //comparing and deciding
+            if ( parsedy == parsedx || parsedy > parsedx)
+            {
+                Console.WriteLine("You can vote");
+            }
+            else 
+            { 
+                Console.WriteLine("You can't vote."); 
+            }
         }
     }
 }
