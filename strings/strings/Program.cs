@@ -7,9 +7,11 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Arrays exercise\n");
 
             /*strings as array*/
+
             Console.WriteLine("strings as array");
             string[] random = { "24", "23sd", "phone", "mouse", "keyboard" };
             Console.WriteLine(random[1]); //prtints the 1st array value i.e, '23sd'.
@@ -60,7 +62,7 @@ namespace Arrays
                 Console.WriteLine(i);
             }
             Array.Sort(ages);               //sort integer array in ascending order.
-            foreach(int i in ages)
+            foreach (int i in ages)
             {
                 Console.WriteLine(i);
             }
@@ -69,10 +71,50 @@ namespace Arrays
 
             string[] bottles = new string[] { "water bottle", "juice bottle", "drinks bottle", "oil bottle", "spice bottle" };
             Array.Sort(bottles);
-            foreach(string i in bottles)
+            foreach (string i in bottles)
             {
                 Console.WriteLine(i);
             }
+
+
+
+
+
+            //getting strings as an array values from user
+            string[] carrs = new string[3];
+            Console.WriteLine("enter the car brands");
+            for(int i = 0; i < carrs.Length; i++)
+            {
+                carrs[i] = Console.ReadLine();
+            }
+
+            //displaying array values from the user
+            Console.WriteLine("the car brand you've entered previously are:");
+            foreach (string i in carrs)
+            {
+                Console.WriteLine(i);
+            }
+
+
+            //getting integer as an array value from the user
+            int[] oddNums = new int[3];
+            Console.WriteLine("Enter the first 3 odd numbers");
+            for (int i = 0;i < oddNums.Length;i++)
+            {
+                int parsedOddNums;
+                int.TryParse(Console.ReadLine(), out parsedOddNums);
+                oddNums[i] = parsedOddNums;
+            }
+
+            //displaying array values from the user
+            Console.WriteLine("The first odd numbers you've entered are:");
+            foreach (int i in oddNums)
+            {
+                Console.WriteLine(i);
+            }
+
+
+
 
 
             /*Multidimensional array*/
