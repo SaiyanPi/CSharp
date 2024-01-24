@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\method exercise\bin\Debug\net8.0\method exercise.exe
+C:\Users\zlams\source\repos\method exercise\bin\Debug\net8.0\method exercise.deps.json
+C:\Users\zlams\source\repos\method exercise\bin\Debug\net8.0\method exercise.runtimeconfig.json
+C:\Users\zlams\source\repos\method exercise\bin\Debug\net8.0\method exercise.dll
+C:\Users\zlams\source\repos\method exercise\bin\Debug\net8.0\method exercise.pdb
+C:\Users\zlams\source\repos\method exercise\obj\Debug\net8.0\method exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\method exercise\obj\Debug\net8.0\method exercise.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\method exercise\obj\Debug\net8.0\method exercise.AssemblyInfo.cs
+C:\Users\zlams\source\repos\method exercise\obj\Debug\net8.0\method exercise.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\method exercise\obj\Debug\net8.0\method exercise.sourcelink.json
+C:\Users\zlams\source\repos\method exercise\obj\Debug\net8.0\method exercise.dll
+C:\Users\zlams\source\repos\method exercise\obj\Debug\net8.0\refint\method exercise.dll
+C:\Users\zlams\source\repos\method exercise\obj\Debug\net8.0\method exercise.pdb
+C:\Users\zlams\source\repos\method exercise\obj\Debug\net8.0\method exercise.genruntimeconfig.cache
+C:\Users\zlams\source\repos\method exercise\obj\Debug\net8.0\ref\method exercise.dll

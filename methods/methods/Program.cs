@@ -68,6 +68,7 @@ namespace Methods
         static void MultiParaMethod(int age, string address)
         {
             Console.WriteLine("I am "+age+" years old and i live in "+address);
+            Console.WriteLine($"i am {age} years old and i live in {address}");
         }
 
         /*Default parameter value.*/
@@ -83,11 +84,12 @@ namespace Methods
         }
         static string ValRetMethod2(string school) 
         {
-            return "I am a student of " + school;
+            //return "I am a student of " + school;
+            return $"i am a student of {school}";
         }
         static string ValRetMethod3(string name, string surname)
         {
-            return name + surname;
+            return name + " "+ surname;
         }
 
         /*Named arguments*/
