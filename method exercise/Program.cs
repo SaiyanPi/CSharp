@@ -26,7 +26,7 @@ namespace MethodExercise
 
         static int MethodOverloading(int x, int y)
         {
-            return x + y;
+            return x * y;
         }
         static double MethodOverloading(double x, double y)
         {
@@ -36,7 +36,25 @@ namespace MethodExercise
         {
             return $"This is {x} {y}";
         }
-       
+        static void Percentage()
+        {
+            Console.WriteLine("Enter the value you want to derive percentage of");
+            //int firstval = Convert.ToInt32(Console.ReadLine());
+            int firstval;
+            Int32.TryParse(Console.ReadLine(), out firstval);
+            double firstval1 = firstval;
+
+            Console.WriteLine("Enter the total value you want to derive percentage on");
+            //int secondval = Convert.ToInt32(Console.ReadLine());
+            int secondval;
+            Int32.TryParse(Console.ReadLine(), out secondval);
+            double secondval2 = secondval;
+           
+            double percentage= (firstval1 / secondval2) * 100;
+            Console.WriteLine(firstval1 + " out of " + secondval2 + " is = "+percentage+"%");
+           
+        }
+        
 
 
 
@@ -50,14 +68,17 @@ namespace MethodExercise
             string intro = Method4(gender: "male", age:27);
             Console.WriteLine(intro);
 
-            int calculation1 = MethodOverloading(x: 2, y: 1);
+            int calculation1 = MethodOverloading(x: 1, y: 2);
             Console.WriteLine(calculation1);
 
-            double calculation2 = MethodOverloading(x: 4.5, y: 2.5);
+            double calculation2 = MethodOverloading(x: 1.0, y: 2.0);
             Console.WriteLine(calculation2);
 
             string statement1 = MethodOverloading(x: "method", y: "overloading");
             Console.WriteLine(statement1);
+
+            Percentage();
+
         }
     }
 }
