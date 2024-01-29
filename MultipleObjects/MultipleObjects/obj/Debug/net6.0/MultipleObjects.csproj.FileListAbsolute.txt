@@ -3,7 +3,6 @@ C:\Users\zlams\source\repos\MultipleObjects\MultipleObjects\bin\Debug\net6.0\Mul
 C:\Users\zlams\source\repos\MultipleObjects\MultipleObjects\bin\Debug\net6.0\MultipleObjects.runtimeconfig.json
 C:\Users\zlams\source\repos\MultipleObjects\MultipleObjects\bin\Debug\net6.0\MultipleObjects.dll
 C:\Users\zlams\source\repos\MultipleObjects\MultipleObjects\bin\Debug\net6.0\MultipleObjects.pdb
-C:\Users\zlams\source\repos\MultipleObjects\MultipleObjects\obj\Debug\net6.0\MultipleObjects.csproj.AssemblyReference.cache
 C:\Users\zlams\source\repos\MultipleObjects\MultipleObjects\obj\Debug\net6.0\MultipleObjects.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\zlams\source\repos\MultipleObjects\MultipleObjects\obj\Debug\net6.0\MultipleObjects.AssemblyInfoInputs.cache
 C:\Users\zlams\source\repos\MultipleObjects\MultipleObjects\obj\Debug\net6.0\MultipleObjects.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\zlams\source\repos\MultipleObjects\MultipleObjects\obj\Debug\net6.0\ref
 C:\Users\zlams\source\repos\MultipleObjects\MultipleObjects\obj\Debug\net6.0\MultipleObjects.pdb
 C:\Users\zlams\source\repos\MultipleObjects\MultipleObjects\obj\Debug\net6.0\MultipleObjects.genruntimeconfig.cache
 C:\Users\zlams\source\repos\MultipleObjects\MultipleObjects\obj\Debug\net6.0\ref\MultipleObjects.dll
+C:\Users\zlams\source\repos\MultipleObjects\MultipleObjects\obj\Debug\net6.0\MultipleObjects.sourcelink.json

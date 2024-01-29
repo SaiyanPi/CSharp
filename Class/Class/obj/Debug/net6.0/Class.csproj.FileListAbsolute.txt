@@ -3,7 +3,6 @@ C:\Users\zlams\source\repos\Class\Class\bin\Debug\net6.0\Class.deps.json
 C:\Users\zlams\source\repos\Class\Class\bin\Debug\net6.0\Class.runtimeconfig.json
 C:\Users\zlams\source\repos\Class\Class\bin\Debug\net6.0\Class.dll
 C:\Users\zlams\source\repos\Class\Class\bin\Debug\net6.0\Class.pdb
-C:\Users\zlams\source\repos\Class\Class\obj\Debug\net6.0\Class.csproj.AssemblyReference.cache
 C:\Users\zlams\source\repos\Class\Class\obj\Debug\net6.0\Class.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\zlams\source\repos\Class\Class\obj\Debug\net6.0\Class.AssemblyInfoInputs.cache
 C:\Users\zlams\source\repos\Class\Class\obj\Debug\net6.0\Class.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\zlams\source\repos\Class\Class\obj\Debug\net6.0\refint\Class.dll
 C:\Users\zlams\source\repos\Class\Class\obj\Debug\net6.0\Class.pdb
 C:\Users\zlams\source\repos\Class\Class\obj\Debug\net6.0\Class.genruntimeconfig.cache
 C:\Users\zlams\source\repos\Class\Class\obj\Debug\net6.0\ref\Class.dll
+C:\Users\zlams\source\repos\Class\Class\obj\Debug\net6.0\Class.sourcelink.json

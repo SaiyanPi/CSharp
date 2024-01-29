@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultipleObjects")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab904df3fbc574e71a2b1d0727265554b736ea12")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultipleObjects")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultipleObjects")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

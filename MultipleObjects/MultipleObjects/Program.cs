@@ -3,7 +3,7 @@ namespace MyCode
 {
     class MultipleObjects
     {
-        string name = "abcd";
+        string name = "abcd"; //field or attribute(variable declared directly inside class)
         int age = 27;
         static void Main(string[] args)
         {
@@ -14,8 +14,8 @@ namespace MyCode
             Console.WriteLine(obj2.name);
             Console.WriteLine(obj1.age);
 
-            /*Class1 obj3 = new Class1();
-            Console.WriteLine(Obj3.word);*/
+            //Class1 obj3 = new Class1();
+            //Console.WriteLine(Obj3.message);
         }
     }
 }
