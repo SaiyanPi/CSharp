@@ -36,6 +36,12 @@ namespace MethodExercise
         {
             return $"This is {x} {y}";
         }
+
+
+        //percentage
+        //one way: instead of getting arguments from the method as method parameter(like in below multiplication)
+        //entire operation like getting argument value
+        //calculating percentage value are entirely done inside the method
         static void Percentage()
         {
             Console.WriteLine("Enter the value you want to derive percentage of");
@@ -54,7 +60,15 @@ namespace MethodExercise
             Console.WriteLine(firstval1 + " out of " + secondval2 + " is = "+percentage+"%");
            
         }
-        
+
+        //multiplication
+        //another way: //instead of doing everything inside the method, we only did the calculation this time.
+        //gargument value is passed as a method parameter.
+        static void Multiplication(int num1, int num2)
+        {
+            Console.WriteLine(num1 * num2);
+        }
+
 
 
 
@@ -62,10 +76,10 @@ namespace MethodExercise
         {
             SimpleMethod();
             Method1("Neerajan Rai", 27);
-            Method2(wardno: 15, municipality:"chandragiri");
+            Method2(wardno: 15, municipality: "chandragiri");
             Console.WriteLine("I am " + Method3(27) + " years old");
 
-            string intro = Method4(gender: "male", age:27);
+            string intro = Method4(gender: "male", age: 27);
             Console.WriteLine(intro);
 
             int calculation1 = MethodOverloading(x: 1, y: 2);
@@ -76,9 +90,19 @@ namespace MethodExercise
 
             string statement1 = MethodOverloading(x: "method", y: "overloading");
             Console.WriteLine(statement1);
+            
+            //percentage
+            Percentage(); //no parameter; entire thing is done inside the method
 
-            Percentage();
 
+            //multiplication
+            Console.WriteLine("Enter the first number"); //getting argument for method 
+            int num1 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter the second number"); //getting argument for method
+            int num2 = Convert.ToInt32(Console.ReadLine());
+
+            Multiplication(num1, num2); //argument is passed as a method parmeter
         }
     }
 }

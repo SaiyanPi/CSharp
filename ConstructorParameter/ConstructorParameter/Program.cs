@@ -16,7 +16,7 @@ namespace ConstructorParameter
         static void Main(string[] args)
         {
             Car Toyota = new Car("Supra", 56);   // Car Toyota = new Car(prodNum:56, modelName:"supra"); 
-            //instead of modifying each and every field like below we can simply pass the fiwld value as argument/parameter while creating object as above; hence constructor saves time.
+            //instead of modifying each and every field like below we can simply pass the field value as argument/parameter while creating object as above; hence constructor saves time.
             /*Toyota.model = "Supra";*/
             /*Toyota.num = 56;*/
             Console.WriteLine("Name: " + Toyota.model);
