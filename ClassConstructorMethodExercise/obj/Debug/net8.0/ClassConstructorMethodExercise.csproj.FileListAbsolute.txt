@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\ClassConstructorMethodExercise\bin\Debug\net8.0\ClassConstructorMethodExercise.exe
+C:\Users\zlams\source\repos\ClassConstructorMethodExercise\bin\Debug\net8.0\ClassConstructorMethodExercise.deps.json
+C:\Users\zlams\source\repos\ClassConstructorMethodExercise\bin\Debug\net8.0\ClassConstructorMethodExercise.runtimeconfig.json
+C:\Users\zlams\source\repos\ClassConstructorMethodExercise\bin\Debug\net8.0\ClassConstructorMethodExercise.dll
+C:\Users\zlams\source\repos\ClassConstructorMethodExercise\bin\Debug\net8.0\ClassConstructorMethodExercise.pdb
+C:\Users\zlams\source\repos\ClassConstructorMethodExercise\obj\Debug\net8.0\ClassConstructorMethodExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\ClassConstructorMethodExercise\obj\Debug\net8.0\ClassConstructorMethodExercise.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\ClassConstructorMethodExercise\obj\Debug\net8.0\ClassConstructorMethodExercise.AssemblyInfo.cs
+C:\Users\zlams\source\repos\ClassConstructorMethodExercise\obj\Debug\net8.0\ClassConstructorMethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\ClassConstructorMethodExercise\obj\Debug\net8.0\ClassConstructorMethodExercise.sourcelink.json
+C:\Users\zlams\source\repos\ClassConstructorMethodExercise\obj\Debug\net8.0\ClassConstructorMethodExercise.dll
+C:\Users\zlams\source\repos\ClassConstructorMethodExercise\obj\Debug\net8.0\refint\ClassConstructorMethodExercise.dll
+C:\Users\zlams\source\repos\ClassConstructorMethodExercise\obj\Debug\net8.0\ClassConstructorMethodExercise.pdb
+C:\Users\zlams\source\repos\ClassConstructorMethodExercise\obj\Debug\net8.0\ClassConstructorMethodExercise.genruntimeconfig.cache
+C:\Users\zlams\source\repos\ClassConstructorMethodExercise\obj\Debug\net8.0\ref\ClassConstructorMethodExercise.dll

@@ -3,7 +3,6 @@ C:\Users\zlams\source\repos\MultipleClass\MultipleClass\bin\Debug\net6.0\Multipl
 C:\Users\zlams\source\repos\MultipleClass\MultipleClass\bin\Debug\net6.0\MultipleClass.runtimeconfig.json
 C:\Users\zlams\source\repos\MultipleClass\MultipleClass\bin\Debug\net6.0\MultipleClass.dll
 C:\Users\zlams\source\repos\MultipleClass\MultipleClass\bin\Debug\net6.0\MultipleClass.pdb
-C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\MultipleClass.csproj.AssemblyReference.cache
 C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\MultipleClass.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\MultipleClass.AssemblyInfoInputs.cache
 C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\MultipleClass.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\refint\
 C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\MultipleClass.pdb
 C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\MultipleClass.genruntimeconfig.cache
 C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\ref\MultipleClass.dll
+C:\Users\zlams\source\repos\MultipleClass\MultipleClass\obj\Debug\net6.0\MultipleClass.sourcelink.json
