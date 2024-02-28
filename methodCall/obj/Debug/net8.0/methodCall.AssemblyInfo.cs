@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("methodCall")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72ceb89d969640b88d3a23b716c984e9f41e67e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d6c4f432e99c9057c5666457480e241876c86d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("methodCall")]
 [assembly: System.Reflection.AssemblyTitleAttribute("methodCall")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
