@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\ArrayToFunction\bin\Debug\net8.0\ArrayToFunction.exe
+C:\Users\zlams\source\repos\ArrayToFunction\bin\Debug\net8.0\ArrayToFunction.deps.json
+C:\Users\zlams\source\repos\ArrayToFunction\bin\Debug\net8.0\ArrayToFunction.runtimeconfig.json
+C:\Users\zlams\source\repos\ArrayToFunction\bin\Debug\net8.0\ArrayToFunction.dll
+C:\Users\zlams\source\repos\ArrayToFunction\bin\Debug\net8.0\ArrayToFunction.pdb
+C:\Users\zlams\source\repos\ArrayToFunction\obj\Debug\net8.0\ArrayToFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\ArrayToFunction\obj\Debug\net8.0\ArrayToFunction.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\ArrayToFunction\obj\Debug\net8.0\ArrayToFunction.AssemblyInfo.cs
+C:\Users\zlams\source\repos\ArrayToFunction\obj\Debug\net8.0\ArrayToFunction.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\ArrayToFunction\obj\Debug\net8.0\ArrayToFunction.sourcelink.json
+C:\Users\zlams\source\repos\ArrayToFunction\obj\Debug\net8.0\ArrayToFunction.dll
+C:\Users\zlams\source\repos\ArrayToFunction\obj\Debug\net8.0\refint\ArrayToFunction.dll
+C:\Users\zlams\source\repos\ArrayToFunction\obj\Debug\net8.0\ArrayToFunction.pdb
+C:\Users\zlams\source\repos\ArrayToFunction\obj\Debug\net8.0\ArrayToFunction.genruntimeconfig.cache
+C:\Users\zlams\source\repos\ArrayToFunction\obj\Debug\net8.0\ref\ArrayToFunction.dll

@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\methodCall\bin\Debug\net8.0\methodCall.exe
+C:\Users\zlams\source\repos\methodCall\bin\Debug\net8.0\methodCall.deps.json
+C:\Users\zlams\source\repos\methodCall\bin\Debug\net8.0\methodCall.runtimeconfig.json
+C:\Users\zlams\source\repos\methodCall\bin\Debug\net8.0\methodCall.dll
+C:\Users\zlams\source\repos\methodCall\bin\Debug\net8.0\methodCall.pdb
+C:\Users\zlams\source\repos\methodCall\obj\Debug\net8.0\methodCall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\methodCall\obj\Debug\net8.0\methodCall.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\methodCall\obj\Debug\net8.0\methodCall.AssemblyInfo.cs
+C:\Users\zlams\source\repos\methodCall\obj\Debug\net8.0\methodCall.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\methodCall\obj\Debug\net8.0\methodCall.sourcelink.json
+C:\Users\zlams\source\repos\methodCall\obj\Debug\net8.0\methodCall.dll
+C:\Users\zlams\source\repos\methodCall\obj\Debug\net8.0\refint\methodCall.dll
+C:\Users\zlams\source\repos\methodCall\obj\Debug\net8.0\methodCall.pdb
+C:\Users\zlams\source\repos\methodCall\obj\Debug\net8.0\methodCall.genruntimeconfig.cache
+C:\Users\zlams\source\repos\methodCall\obj\Debug\net8.0\ref\methodCall.dll
