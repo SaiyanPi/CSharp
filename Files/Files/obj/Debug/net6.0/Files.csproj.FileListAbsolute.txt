@@ -3,7 +3,6 @@ C:\Users\zlams\source\repos\Files\Files\bin\Debug\net6.0\Files.deps.json
 C:\Users\zlams\source\repos\Files\Files\bin\Debug\net6.0\Files.runtimeconfig.json
 C:\Users\zlams\source\repos\Files\Files\bin\Debug\net6.0\Files.dll
 C:\Users\zlams\source\repos\Files\Files\bin\Debug\net6.0\Files.pdb
-C:\Users\zlams\source\repos\Files\Files\obj\Debug\net6.0\Files.csproj.AssemblyReference.cache
 C:\Users\zlams\source\repos\Files\Files\obj\Debug\net6.0\Files.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\zlams\source\repos\Files\Files\obj\Debug\net6.0\Files.AssemblyInfoInputs.cache
 C:\Users\zlams\source\repos\Files\Files\obj\Debug\net6.0\Files.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\zlams\source\repos\Files\Files\obj\Debug\net6.0\refint\Files.dll
 C:\Users\zlams\source\repos\Files\Files\obj\Debug\net6.0\Files.pdb
 C:\Users\zlams\source\repos\Files\Files\obj\Debug\net6.0\Files.genruntimeconfig.cache
 C:\Users\zlams\source\repos\Files\Files\obj\Debug\net6.0\ref\Files.dll
+C:\Users\zlams\source\repos\Files\Files\obj\Debug\net6.0\Files.sourcelink.json

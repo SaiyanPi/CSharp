@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\PrivateSealedExercise\bin\Debug\net8.0\PrivateSealedExercise.exe
+C:\Users\zlams\source\repos\PrivateSealedExercise\bin\Debug\net8.0\PrivateSealedExercise.deps.json
+C:\Users\zlams\source\repos\PrivateSealedExercise\bin\Debug\net8.0\PrivateSealedExercise.runtimeconfig.json
+C:\Users\zlams\source\repos\PrivateSealedExercise\bin\Debug\net8.0\PrivateSealedExercise.dll
+C:\Users\zlams\source\repos\PrivateSealedExercise\bin\Debug\net8.0\PrivateSealedExercise.pdb
+C:\Users\zlams\source\repos\PrivateSealedExercise\obj\Debug\net8.0\PrivateSealedExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\PrivateSealedExercise\obj\Debug\net8.0\PrivateSealedExercise.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\PrivateSealedExercise\obj\Debug\net8.0\PrivateSealedExercise.AssemblyInfo.cs
+C:\Users\zlams\source\repos\PrivateSealedExercise\obj\Debug\net8.0\PrivateSealedExercise.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\PrivateSealedExercise\obj\Debug\net8.0\PrivateSealedExercise.sourcelink.json
+C:\Users\zlams\source\repos\PrivateSealedExercise\obj\Debug\net8.0\PrivateSealedExercise.dll
+C:\Users\zlams\source\repos\PrivateSealedExercise\obj\Debug\net8.0\refint\PrivateSealedExercise.dll
+C:\Users\zlams\source\repos\PrivateSealedExercise\obj\Debug\net8.0\PrivateSealedExercise.pdb
+C:\Users\zlams\source\repos\PrivateSealedExercise\obj\Debug\net8.0\PrivateSealedExercise.genruntimeconfig.cache
+C:\Users\zlams\source\repos\PrivateSealedExercise\obj\Debug\net8.0\ref\PrivateSealedExercise.dll

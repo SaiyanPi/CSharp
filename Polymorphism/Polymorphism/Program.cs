@@ -38,7 +38,7 @@ namespace Polymorphism
         static void Main(string[] args)
         {
             Animal AnimalObj = new Animal(); //create animal object
-            Animal PigObj = new Pig(); //create pig object
+            Pig PigObj = new Pig(); //create pig object
             Animal DogObj = new Dog(); //create dog object
 
             AnimalObj.AnimalSound();

@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\StaticExercise\bin\Debug\net8.0\StaticExercise.exe
+C:\Users\zlams\source\repos\StaticExercise\bin\Debug\net8.0\StaticExercise.deps.json
+C:\Users\zlams\source\repos\StaticExercise\bin\Debug\net8.0\StaticExercise.runtimeconfig.json
+C:\Users\zlams\source\repos\StaticExercise\bin\Debug\net8.0\StaticExercise.dll
+C:\Users\zlams\source\repos\StaticExercise\bin\Debug\net8.0\StaticExercise.pdb
+C:\Users\zlams\source\repos\StaticExercise\obj\Debug\net8.0\StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\StaticExercise\obj\Debug\net8.0\StaticExercise.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\StaticExercise\obj\Debug\net8.0\StaticExercise.AssemblyInfo.cs
+C:\Users\zlams\source\repos\StaticExercise\obj\Debug\net8.0\StaticExercise.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\StaticExercise\obj\Debug\net8.0\StaticExercise.sourcelink.json
+C:\Users\zlams\source\repos\StaticExercise\obj\Debug\net8.0\StaticExercise.dll
+C:\Users\zlams\source\repos\StaticExercise\obj\Debug\net8.0\refint\StaticExercise.dll
+C:\Users\zlams\source\repos\StaticExercise\obj\Debug\net8.0\StaticExercise.pdb
+C:\Users\zlams\source\repos\StaticExercise\obj\Debug\net8.0\StaticExercise.genruntimeconfig.cache
+C:\Users\zlams\source\repos\StaticExercise\obj\Debug\net8.0\ref\StaticExercise.dll
