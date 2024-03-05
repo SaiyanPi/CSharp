@@ -38,9 +38,11 @@ namespace Static
             Console.WriteLine(account.type); //we can access non-static field
             /* Console.WriteLine(account.interest);
             account.staticDisplay("savings"); */
-                                             //cannot access static field 'interest' because static field only belongs to its class Account
-                                             //and not to an object of the Account
+            //cannot access static field 'interest' and static method 'staticDisplay" through class instance/object
 
+            Console.WriteLine(Account.interest);
+            Account.staticDisplay("savings");
+            //we can access static field and method directly through class name.
             
         }
     }
