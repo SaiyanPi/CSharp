@@ -22,6 +22,11 @@ namespace Static
         {
             Console.WriteLine($"id: {id}, name: {name}, interest rate: {interest}");
         }
+
+        public static void staticDisplay(string accountType)
+        {
+            Console.WriteLine($"account type: {accountType}");
+        }
     }
 
     class Program
@@ -31,10 +36,12 @@ namespace Static
             Account account = new Account(24, "bobby"); //object
             account.display();
             Console.WriteLine(account.type); //we can access non-static field
-            //Console.WriteLine(account.interest);
-            //cannot access static field 'interest' because static field only belongs to its class Account
-            //and not to an object of the Account
+            /* Console.WriteLine(account.interest);
+            account.staticDisplay("savings"); */
+                                             //cannot access static field 'interest' because static field only belongs to its class Account
+                                             //and not to an object of the Account
 
+            
         }
     }
 }
