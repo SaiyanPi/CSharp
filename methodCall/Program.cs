@@ -25,11 +25,9 @@ class Program
     //method for out parameter
     static void functionthree(out int y)
     {
-        y = 10;
+        int z = 10;
+        y = z;
         y *= y;
-
-
-
     }
 
 
