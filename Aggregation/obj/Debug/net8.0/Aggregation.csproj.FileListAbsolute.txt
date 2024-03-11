@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\Aggregation\bin\Debug\net8.0\Aggregation.exe
+C:\Users\zlams\source\repos\Aggregation\bin\Debug\net8.0\Aggregation.deps.json
+C:\Users\zlams\source\repos\Aggregation\bin\Debug\net8.0\Aggregation.runtimeconfig.json
+C:\Users\zlams\source\repos\Aggregation\bin\Debug\net8.0\Aggregation.dll
+C:\Users\zlams\source\repos\Aggregation\bin\Debug\net8.0\Aggregation.pdb
+C:\Users\zlams\source\repos\Aggregation\obj\Debug\net8.0\Aggregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\Aggregation\obj\Debug\net8.0\Aggregation.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\Aggregation\obj\Debug\net8.0\Aggregation.AssemblyInfo.cs
+C:\Users\zlams\source\repos\Aggregation\obj\Debug\net8.0\Aggregation.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\Aggregation\obj\Debug\net8.0\Aggregation.sourcelink.json
+C:\Users\zlams\source\repos\Aggregation\obj\Debug\net8.0\Aggregation.dll
+C:\Users\zlams\source\repos\Aggregation\obj\Debug\net8.0\refint\Aggregation.dll
+C:\Users\zlams\source\repos\Aggregation\obj\Debug\net8.0\Aggregation.pdb
+C:\Users\zlams\source\repos\Aggregation\obj\Debug\net8.0\Aggregation.genruntimeconfig.cache
+C:\Users\zlams\source\repos\Aggregation\obj\Debug\net8.0\ref\Aggregation.dll
