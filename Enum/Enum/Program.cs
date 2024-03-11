@@ -2,11 +2,13 @@
  * To create an enum, use the enum keyword (instead of class or interface), and separate the enum items with a comma: */
 
 using System;
-namespace Enum
+namespace EnumExample
 {
-    enum Fix //enum
+    enum Fix //enum outside a class
     {
-        low,medium, high
+        low,
+        medium,
+        high
     }
     class Program
     {
@@ -25,7 +27,7 @@ namespace Enum
             november,
             december //11
         }
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Fix test = Fix.high;
             Console.WriteLine(test);
@@ -36,6 +38,17 @@ namespace Enum
             int monthNum = (int)Month.june; //to get integer value of an item, we must explicitly convert the item into an int
             Console.WriteLine(monthNum);
 
+            foreach (string s in Enum.GetNames(typeof(Month))) //traversing all values using GetNames()
+            {
+                Console.WriteLine(s);
+            }
+
+            foreach(Fix F in Enum.GetValues(typeof(Fix))) //traversing all values using GetValues()
+            {
+                Console.WriteLine(F);
+            }
+
         }
     }
+   
 }
