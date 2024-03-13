@@ -18,16 +18,18 @@ namespace Polymorphism
             Console.WriteLine("The animal makes a sound");
         }
     }
+    //RUN TIME/DYNAMIC POLYMORPHISM = METHOD OVERRIDE
+    //COMPILE TIME/STATIC POLYMORPHISM = METHOD OVERLOADING
     class Pig : Animal //child class
     {
-        public override void AnimalSound() //override keyword for each derived class methods
+        public override void AnimalSound() //METHOD OVERRIDE, override keyword for each derived class methods
         {
             Console.WriteLine("chu-chu");
         }
     }
     class Dog : Animal //child class
     {
-        public override void AnimalSound() //override keyword for each derived class methods
+        public override void AnimalSound() //METHOD OVERRIDE, override keyword for each derived class methods
         {
             Console.WriteLine("woof-woof");
         }
@@ -40,10 +42,12 @@ namespace Polymorphism
             Animal AnimalObj = new Animal(); //create animal object
             Pig PigObj = new Pig(); //create pig object
             Animal DogObj = new Dog(); //create dog object
+            Cat catobj = new Cat();
 
             AnimalObj.AnimalSound();
             PigObj.AnimalSound();
             DogObj.AnimalSound();
+            catobj.AnimalSound();
 
         }
     }
