@@ -23,10 +23,17 @@ namespace EXception
                 string[] pustam= { "big", "famous", "coldstore", "godam" };
                 Console.WriteLine(pustam[5]);
             }
-            catch (Exception e)
+            catch (Exception e) //THIS GETS EXECUTED (SUPERTYPE RuntimeException).
             {
                 Console.WriteLine("pustam does not have that name"); //custom error message
             }
+            /*
+            catch(IndexOutOfRangeException e) //ERROR: THE PREVIOUS CATCH CLAUSE ALREADY CATCHES ALL
+                                              //EXCEPTIONS OF THIS OR OF A SUPERTYPE 
+            {
+                Console.WriteLine("Index out of range: {0}", e);
+            }
+            */          
             finally //The finally statement lets you execute code, after try...catch, regardless of the result
             {
                 Console.WriteLine("finally the try-catch is finished");

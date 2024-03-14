@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zlams\\source\\repos\\Exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B02E612-E306-4A74-8ABD-E7490FD56B74}|Exception\\Exception.csproj|c:\\users\\zlams\\source\\repos\\exception\\exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B02E612-E306-4A74-8ABD-E7490FD56B74}|Exception\\Exception.csproj|solutionrelative:exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zlams\\source\\repos\\Exception\\Exception\\Program.cs",
+              "RelativeDocumentMoniker": "Exception\\Program.cs",
+              "ToolTip": "C:\\Users\\zlams\\source\\repos\\Exception\\Exception\\Program.cs",
+              "RelativeToolTip": "Exception\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-20T14:24:41.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
