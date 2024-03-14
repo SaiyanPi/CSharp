@@ -1,0 +1,15 @@
+C:\Users\zlams\source\CSharpTest\Test15(SortedList)\obj\Debug\net8.0\Test15(SortedList).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\CSharpTest\Test15(SortedList)\obj\Debug\net8.0\Test15(SortedList).AssemblyInfoInputs.cache
+C:\Users\zlams\source\CSharpTest\Test15(SortedList)\obj\Debug\net8.0\Test15(SortedList).AssemblyInfo.cs
+C:\Users\zlams\source\CSharpTest\Test15(SortedList)\obj\Debug\net8.0\Test15(SortedList).csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\CSharpTest\Test15(SortedList)\obj\Debug\net8.0\Test15(SortedList).sourcelink.json
+C:\Users\zlams\source\CSharpTest\Test15(SortedList)\bin\Debug\net8.0\Test15(SortedList).exe
+C:\Users\zlams\source\CSharpTest\Test15(SortedList)\bin\Debug\net8.0\Test15(SortedList).deps.json
+C:\Users\zlams\source\CSharpTest\Test15(SortedList)\bin\Debug\net8.0\Test15(SortedList).runtimeconfig.json
+C:\Users\zlams\source\CSharpTest\Test15(SortedList)\bin\Debug\net8.0\Test15(SortedList).dll
+C:\Users\zlams\source\CSharpTest\Test15(SortedList)\bin\Debug\net8.0\Test15(SortedList).pdb
+C:\Users\zlams\source\CSharpTest\Test15(SortedList)\obj\Debug\net8.0\Test15(SortedList).dll
+C:\Users\zlams\source\CSharpTest\Test15(SortedList)\obj\Debug\net8.0\refint\Test15(SortedList).dll
+C:\Users\zlams\source\CSharpTest\Test15(SortedList)\obj\Debug\net8.0\Test15(SortedList).pdb
+C:\Users\zlams\source\CSharpTest\Test15(SortedList)\obj\Debug\net8.0\Test15(SortedList).genruntimeconfig.cache
+C:\Users\zlams\source\CSharpTest\Test15(SortedList)\obj\Debug\net8.0\ref\Test15(SortedList).dll
