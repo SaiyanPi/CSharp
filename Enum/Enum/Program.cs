@@ -19,24 +19,29 @@ namespace EnumExample
             march, //2
             april,
             may,
-            june,
-            july,
-            august,
-            september,
+            june, //5
+            july =32, //new value 32 assigned
+            august, // now starts from 33
+            september, //34
             october,
             november,
-            december //11
+            december //37
         }
         public static void Main(string[] args)
         {
-            Fix test = Fix.high;
-            Console.WriteLine(test);
+            Fix test = Fix.high; //local variable 'test'
+            Console.WriteLine(test); //high
 
             Month month = Month.june;
-            Console.WriteLine(month);
+            Console.WriteLine(month); //june
 
             int monthNum = (int)Month.june; //to get integer value of an item, we must explicitly convert the item into an int
-            Console.WriteLine(monthNum);
+            Console.WriteLine(monthNum); //5
+
+            Console.WriteLine((int)Month.july); //32
+            Console.WriteLine((int)Month.december); //37
+            Console.WriteLine(Environment.NewLine);
+
 
             foreach (string s in Enum.GetNames(typeof(Month))) //traversing all values using GetNames()
             {
