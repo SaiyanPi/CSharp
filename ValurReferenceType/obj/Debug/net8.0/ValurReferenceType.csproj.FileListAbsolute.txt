@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\ValurReferenceType\bin\Debug\net8.0\ValurReferenceType.exe
+C:\Users\zlams\source\repos\ValurReferenceType\bin\Debug\net8.0\ValurReferenceType.deps.json
+C:\Users\zlams\source\repos\ValurReferenceType\bin\Debug\net8.0\ValurReferenceType.runtimeconfig.json
+C:\Users\zlams\source\repos\ValurReferenceType\bin\Debug\net8.0\ValurReferenceType.dll
+C:\Users\zlams\source\repos\ValurReferenceType\bin\Debug\net8.0\ValurReferenceType.pdb
+C:\Users\zlams\source\repos\ValurReferenceType\obj\Debug\net8.0\ValurReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\ValurReferenceType\obj\Debug\net8.0\ValurReferenceType.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\ValurReferenceType\obj\Debug\net8.0\ValurReferenceType.AssemblyInfo.cs
+C:\Users\zlams\source\repos\ValurReferenceType\obj\Debug\net8.0\ValurReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\ValurReferenceType\obj\Debug\net8.0\ValurReferenceType.sourcelink.json
+C:\Users\zlams\source\repos\ValurReferenceType\obj\Debug\net8.0\ValurReferenceType.dll
+C:\Users\zlams\source\repos\ValurReferenceType\obj\Debug\net8.0\refint\ValurReferenceType.dll
+C:\Users\zlams\source\repos\ValurReferenceType\obj\Debug\net8.0\ValurReferenceType.pdb
+C:\Users\zlams\source\repos\ValurReferenceType\obj\Debug\net8.0\ValurReferenceType.genruntimeconfig.cache
+C:\Users\zlams\source\repos\ValurReferenceType\obj\Debug\net8.0\ref\ValurReferenceType.dll
