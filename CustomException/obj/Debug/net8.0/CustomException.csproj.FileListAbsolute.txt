@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\CustomException\bin\Debug\net8.0\CustomException.exe
+C:\Users\zlams\source\repos\CustomException\bin\Debug\net8.0\CustomException.deps.json
+C:\Users\zlams\source\repos\CustomException\bin\Debug\net8.0\CustomException.runtimeconfig.json
+C:\Users\zlams\source\repos\CustomException\bin\Debug\net8.0\CustomException.dll
+C:\Users\zlams\source\repos\CustomException\bin\Debug\net8.0\CustomException.pdb
+C:\Users\zlams\source\repos\CustomException\obj\Debug\net8.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\CustomException\obj\Debug\net8.0\CustomException.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\CustomException\obj\Debug\net8.0\CustomException.AssemblyInfo.cs
+C:\Users\zlams\source\repos\CustomException\obj\Debug\net8.0\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\CustomException\obj\Debug\net8.0\CustomException.sourcelink.json
+C:\Users\zlams\source\repos\CustomException\obj\Debug\net8.0\CustomException.dll
+C:\Users\zlams\source\repos\CustomException\obj\Debug\net8.0\refint\CustomException.dll
+C:\Users\zlams\source\repos\CustomException\obj\Debug\net8.0\CustomException.pdb
+C:\Users\zlams\source\repos\CustomException\obj\Debug\net8.0\CustomException.genruntimeconfig.cache
+C:\Users\zlams\source\repos\CustomException\obj\Debug\net8.0\ref\CustomException.dll
