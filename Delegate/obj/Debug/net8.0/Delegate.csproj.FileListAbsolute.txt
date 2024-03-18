@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\Delegate\bin\Debug\net8.0\Delegate.exe
+C:\Users\zlams\source\repos\Delegate\bin\Debug\net8.0\Delegate.deps.json
+C:\Users\zlams\source\repos\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+C:\Users\zlams\source\repos\Delegate\bin\Debug\net8.0\Delegate.dll
+C:\Users\zlams\source\repos\Delegate\bin\Debug\net8.0\Delegate.pdb
+C:\Users\zlams\source\repos\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+C:\Users\zlams\source\repos\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\Delegate\obj\Debug\net8.0\Delegate.sourcelink.json
+C:\Users\zlams\source\repos\Delegate\obj\Debug\net8.0\Delegate.dll
+C:\Users\zlams\source\repos\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+C:\Users\zlams\source\repos\Delegate\obj\Debug\net8.0\Delegate.pdb
+C:\Users\zlams\source\repos\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+C:\Users\zlams\source\repos\Delegate\obj\Debug\net8.0\ref\Delegate.dll
