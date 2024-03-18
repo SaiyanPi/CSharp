@@ -1,0 +1,15 @@
+C:\Users\zlams\source\repos\DelegatePart2\bin\Debug\net8.0\DelegatePart2.exe
+C:\Users\zlams\source\repos\DelegatePart2\bin\Debug\net8.0\DelegatePart2.deps.json
+C:\Users\zlams\source\repos\DelegatePart2\bin\Debug\net8.0\DelegatePart2.runtimeconfig.json
+C:\Users\zlams\source\repos\DelegatePart2\bin\Debug\net8.0\DelegatePart2.dll
+C:\Users\zlams\source\repos\DelegatePart2\bin\Debug\net8.0\DelegatePart2.pdb
+C:\Users\zlams\source\repos\DelegatePart2\obj\Debug\net8.0\DelegatePart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlams\source\repos\DelegatePart2\obj\Debug\net8.0\DelegatePart2.AssemblyInfoInputs.cache
+C:\Users\zlams\source\repos\DelegatePart2\obj\Debug\net8.0\DelegatePart2.AssemblyInfo.cs
+C:\Users\zlams\source\repos\DelegatePart2\obj\Debug\net8.0\DelegatePart2.csproj.CoreCompileInputs.cache
+C:\Users\zlams\source\repos\DelegatePart2\obj\Debug\net8.0\DelegatePart2.sourcelink.json
+C:\Users\zlams\source\repos\DelegatePart2\obj\Debug\net8.0\DelegatePart2.dll
+C:\Users\zlams\source\repos\DelegatePart2\obj\Debug\net8.0\refint\DelegatePart2.dll
+C:\Users\zlams\source\repos\DelegatePart2\obj\Debug\net8.0\DelegatePart2.pdb
+C:\Users\zlams\source\repos\DelegatePart2\obj\Debug\net8.0\DelegatePart2.genruntimeconfig.cache
+C:\Users\zlams\source\repos\DelegatePart2\obj\Debug\net8.0\ref\DelegatePart2.dll
