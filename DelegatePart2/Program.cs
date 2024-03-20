@@ -29,7 +29,7 @@ namespace DelegateAsParameter
         }
         static void Main(string[] args)
         {
-            //DELEGATE OBJECT CREATED WITH TARGETING METHODS
+            //DELEGATE OBJECTS CREATED WITH TARGETING METHODS
             MyDelegate myd1 = new MyDelegate(ClassA.MethodA); //MyDelegate myd1 = ClassA.MethodA;
             MyDelegate myd2 = new MyDelegate(ClassB.MethodB);
 
@@ -41,11 +41,13 @@ namespace DelegateAsParameter
             myd1("hello .net");
             myd2("hello .net");
 
-            //myd1 = ClassB.MethodB; //delegate object o
-            //InvokeDelegate(myd1);
-            
+            //instead of creating different delegate for different method targets,
+            //we can target the methods with existing delegate object
+            myd1 = ClassB.MethodB;
+            InvokeDelegate(myd1);
 
-           
+
+
         }
     }
 }
