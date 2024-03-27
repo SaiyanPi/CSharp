@@ -3,7 +3,6 @@ C:\Users\zlams\source\repos\Interface\Interface\bin\Debug\net6.0\Interface.deps.
 C:\Users\zlams\source\repos\Interface\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
 C:\Users\zlams\source\repos\Interface\Interface\bin\Debug\net6.0\Interface.dll
 C:\Users\zlams\source\repos\Interface\Interface\bin\Debug\net6.0\Interface.pdb
-C:\Users\zlams\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
 C:\Users\zlams\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\zlams\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
 C:\Users\zlams\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\zlams\source\repos\Interface\Interface\obj\Debug\net6.0\refint\Interfac
 C:\Users\zlams\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.pdb
 C:\Users\zlams\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
 C:\Users\zlams\source\repos\Interface\Interface\obj\Debug\net6.0\ref\Interface.dll
+C:\Users\zlams\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.sourcelink.json

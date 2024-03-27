@@ -1,6 +1,13 @@
 ﻿using System;
 namespace Inheritance
 {
+    class Test
+    {
+        public void testMethod()
+        {
+            Console.WriteLine("test");
+        }
+    }
     class Vehicle // PARENT CLASS
     {
         public string brand = "Mustang"; //field
@@ -10,7 +17,7 @@ namespace Inheritance
         }
     }
 
-    class Car:Vehicle  // CHILD CLASS INHERITS FIELDS AND METHODS OF PARENT CLASS
+    class Car: Vehicle  // CHILD CLASS INHERITS FIELDS AND METHODS OF PARENT CLASS | CANNOT INHERIT FROM MULTIPLE BASE CLASS( class Car:Vehicle, Test)
     {
         public string name = "hellfire";
     }

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zlams\\source\\repos\\Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5219818-3FA5-4D4F-AF26-35E156B46FE3}|Interface\\Interface.csproj|c:\\users\\zlams\\source\\repos\\interface\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5219818-3FA5-4D4F-AF26-35E156B46FE3}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5219818-3FA5-4D4F-AF26-35E156B46FE3}|Interface\\Interface.csproj|c:\\users\\zlams\\source\\repos\\interface\\interface\\interface.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E5219818-3FA5-4D4F-AF26-35E156B46FE3}|Interface\\Interface.csproj|solutionrelative:interface\\interface.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zlams\\source\\repos\\Abstraction\\Abstraction\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zlams\\source\\repos\\Abstraction\\Abstraction\\Bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interface",
+              "DocumentMoniker": "C:\\Users\\zlams\\source\\repos\\Interface\\Interface\\Interface.csproj",
+              "RelativeDocumentMoniker": "Interface\\Interface.csproj",
+              "ToolTip": "C:\\Users\\zlams\\source\\repos\\Interface\\Interface\\Interface.csproj",
+              "RelativeToolTip": "Interface\\Interface.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-08-10T16:35:40.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\zlams\\source\\repos\\Abstraction\\Abstraction\\Bird.cs",
+              "RelativeDocumentMoniker": "..\\Abstraction\\Abstraction\\Bird.cs",
+              "ToolTip": "C:\\Users\\zlams\\source\\repos\\Abstraction\\Abstraction\\Bird.cs",
+              "RelativeToolTip": "..\\Abstraction\\Abstraction\\Bird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-17T14:30:19.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zlams\\source\\repos\\Abstraction\\Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Abstraction\\Abstraction\\Program.cs",
+              "ToolTip": "C:\\Users\\zlams\\source\\repos\\Abstraction\\Abstraction\\Program.cs",
+              "RelativeToolTip": "..\\Abstraction\\Abstraction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-17T14:30:41.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zlams\\source\\repos\\Interface\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "C:\\Users\\zlams\\source\\repos\\Interface\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAuwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-17T13:23:22.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

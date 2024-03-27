@@ -26,6 +26,7 @@ namespace Polymorphism
         {
             Console.WriteLine("chu-chu");
         }
+       
     }
     class Dog : Animal //child class
     {
@@ -42,12 +43,12 @@ namespace Polymorphism
             Animal AnimalObj = new Animal(); //create animal object
             Pig PigObj = new Pig(); //create pig object
             Animal DogObj = new Dog(); //create dog object
-            Cat catobj = new Cat();
+           
 
             AnimalObj.AnimalSound();
             PigObj.AnimalSound();
             DogObj.AnimalSound();
-            catobj.AnimalSound();
+            
 
         }
     }

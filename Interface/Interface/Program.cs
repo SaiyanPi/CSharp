@@ -16,19 +16,29 @@ namespace Interface
     interface IAnimal
     {
         /*string animalname; =>Interface cannot contain fields.*/
+        string animalType { get; set;}
         void animalName(string name); // interface method (does not have a body)
                                       // By default, members of an interface are abstract and public. no need to write 'public void animalName(string name);'
+        //public astract void animalDescription(string description); //compile time error
         void animalSound();  // interface method (does not have a body)
 
         /*An interface cannot contain a constructor(as it cannot be used to create objects)*/
 
-
+    }
+    interface ICategory
+    {
+        void CateName(string name);
     }
 
 
 
-    class Parrot : IAnimal // Parrot "implements" the IAnimal interface
+    class Parrot : IAnimal, ICategory // multiple inheritance: Parrot "implements" the IAnimal and ICategory interface
     {
+        public string animalType 
+        {
+            get { return "domestic"; }
+            set { }
+        }
         public void animalSound() // The body of animalSound() is provided here
         {
             Console.WriteLine("turr-turr");
@@ -37,14 +47,20 @@ namespace Interface
         {
             Console.WriteLine($"{name}");
         }
+        public void CateName(string name)
+        {
+            Console.WriteLine(name);
+        }
     }
     class Program
     {
         static void Main(string[] args)
         {
             Parrot parrotObject = new Parrot();
+            Console.WriteLine(parrotObject.animalType);
             parrotObject.animalName("Parrot");
             parrotObject.animalSound();
+            parrotObject.CateName("Bird");
             
 
 
@@ -66,4 +82,4 @@ Why And When To Use Interfaces?
 
 2) C# does not support "multiple inheritance" (a class can only inherit from one base class). 
 However, it can be achieved with interfaces, because the class can implement multiple interfaces. 
-Note: To implement multiple interfaces, separate them with a comma (see example below).*/
+Note: To implement multiple interfaces, separate them with a comma (see above).*/

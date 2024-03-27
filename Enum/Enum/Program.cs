@@ -1,5 +1,11 @@
 ﻿/*Enum is a special class that represents the group of constants(unchangable/read-only).
- * To create an enum, use the enum keyword (instead of class or interface), and separate the enum items with a comma: */
+ * To create an enum, use the enum keyword (instead of class or interface), and separate the enum items with a comma:
+ * Enum: 
+        - PUBLIC,
+        - STATIC(doesn't have objects) and 
+        - FINAL(cannot be overriden)
+*/
+
 
 using System;
 namespace EnumExample
@@ -29,6 +35,9 @@ namespace EnumExample
         }
         public static void Main(string[] args)
         {
+            Console.WriteLine(Month.may);
+            Console.WriteLine((int)Month.april);
+
             Fix test = Fix.high; //local variable 'test'
             Console.WriteLine(test); //high
 
@@ -52,6 +61,8 @@ namespace EnumExample
             {
                 Console.WriteLine(F);
             }
+
+            
 
         }
     }
