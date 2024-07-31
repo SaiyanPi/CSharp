@@ -10,6 +10,7 @@ namespace DelegateAsParameter
         {
             Console.WriteLine("Called ClassA.MethodA() with parameter: " + message);
         }
+
     }
     class ClassB
     {
@@ -34,17 +35,17 @@ namespace DelegateAsParameter
             MyDelegate myd2 = new MyDelegate(ClassB.MethodB);
 
             //INVOKING METHODS USING METHOD WHICH HAS A DELEGATE AS A PARAMETER
-            InvokeDelegate(myd1);
-            InvokeDelegate(myd2);
+            InvokeDelegate(myd1); //Called ClassA.MethodA() with parameter: welcome to .net
+            InvokeDelegate(myd2); //Called ClassB.MethodB() with parameter: welcome to .net
 
             //INVOKING METHODS WITHOUT USING METHOD
-            myd1("hello .net");
-            myd2("hello .net");
+            myd1("hello .net"); //Called ClassA.MethodA() with parameter: hello .net
+            myd2("hello .net"); //Called ClassB.MethodB() with parameter: hello .net
 
             //instead of creating different delegate for different method targets,
             //we can target the methods with existing delegate object
             myd1 = ClassB.MethodB;
-            InvokeDelegate(myd1);
+            InvokeDelegate(myd1); //Called ClassB.MethodB() with parameter: welcome to .net
 
 
 

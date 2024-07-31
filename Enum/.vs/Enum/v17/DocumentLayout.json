@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\zlams\\source\\repos\\Enum\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D57B4B4C-8BBF-407A-893E-C4DA076D1B97}|Enum\\Enum.csproj|c:\\users\\zlams\\source\\repos\\enum\\enum\\enum.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D57B4B4C-8BBF-407A-893E-C4DA076D1B97}|Enum\\Enum.csproj|solutionrelative:enum\\enum.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D57B4B4C-8BBF-407A-893E-C4DA076D1B97}|Enum\\Enum.csproj|c:\\users\\zlams\\source\\repos\\enum\\enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D57B4B4C-8BBF-407A-893E-C4DA076D1B97}|Enum\\Enum.csproj|solutionrelative:enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Enum",
+              "DocumentMoniker": "C:\\Users\\zlams\\source\\repos\\Enum\\Enum\\Enum.csproj",
+              "RelativeDocumentMoniker": "Enum\\Enum.csproj",
+              "ToolTip": "C:\\Users\\zlams\\source\\repos\\Enum\\Enum\\Enum.csproj",
+              "RelativeToolTip": "Enum\\Enum.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T14:34:29.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zlams\\source\\repos\\Enum\\Enum\\Program.cs",
               "RelativeDocumentMoniker": "Enum\\Program.cs",

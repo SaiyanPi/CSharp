@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StaticClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ed9d959994ef9cbb5d764d98804eaa60b43b76a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c4cdc29fb4cc0291b9dc8786ecfb9cf0e803a10")]
 [assembly: System.Reflection.AssemblyProductAttribute("StaticClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StaticClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
