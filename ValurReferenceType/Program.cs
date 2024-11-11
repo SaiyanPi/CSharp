@@ -23,13 +23,13 @@ namespace ValueReference
             //Reference type behaviour
             Demo obj1 = new Demo();
             Demo obj2 = obj1;
-            Console.WriteLine($"obj1.age = {obj1.age} obj2.age = {obj2.age}"); //21
+            Console.WriteLine($"obj1.age = {obj1.age} obj2.age = {obj2.age}"); //obj1.age = 21 obj2.age = 21
 
             obj2.age = 27;
-            Console.WriteLine($"obj1.age = {obj1.age} obj2.age = {obj2.age}"); //27
+            Console.WriteLine($"obj1.age = {obj1.age} obj2.age = {obj2.age}"); //obj1.age = 27 obj2.age = 27
 
             obj1.age = 32;
-            Console.WriteLine($"obj1.age = {obj1.age} obj2.age = {obj2.age}"); //32
+            Console.WriteLine($"obj1.age = {obj1.age} obj2.age = {obj2.age}"); //obj1.age = 32 obj2.age = 32
         }
     }
 }
