@@ -55,7 +55,8 @@
             // OBJECT PASSED TO METHOD 2 THROUGH ARGUMENT, ACTUALLY IT IS PASSING THE OBJECT(name)'S ADDRESS.
             // SO WHEN METHOD2 CHANGES username TO 'SaiyanPi', IT IS ALSO CHANGING Username OF THE OBJECT(name)
             // BECAUSE  BOTH 'name' and 'naam' ARE POINT TO THE SAME ADDRESS IN MEMORY.
-            ReferenceType.ReferenceMethod(name);    
+            ReferenceType.ReferenceMethod(name); 
+            Console.WriteLine(ReferenceType.ReferenceMethod(name));
             Console.WriteLine(name.Username);   // SaiyanPi
           
         }
