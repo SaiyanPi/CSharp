@@ -3,7 +3,7 @@
 # C#
 
 This repository documents my journey learning C#.
-It contains example projects, experiments, and notes for core concepts in the following format:
+It contains example code, experiments, and notes for core concepts in the following format:
 
 -
 - 📁 Constructor
